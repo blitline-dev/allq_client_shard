@@ -1,0 +1,9 @@
+name: allq_client
+version: 0.1.0
+
+authors:
+  - Jason <jaciones@gmail.com>
+
+crystal: 0.27.0
+
+license: MIT
