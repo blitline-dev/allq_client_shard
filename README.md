@@ -1,6 +1,8 @@
 # allq_client
 
-TODO: Write a description here
+Crystal-lang support for Allqueue.
+
+Beta: In progress. 
 
 ## Installation
 
@@ -8,7 +10,7 @@ TODO: Write a description here
 ```yaml
 dependencies:
   allq_client:
-    github: your-github-user/allq_client
+    github: blitline_dev/allq_client_shard
 ```
 2. Run `shards install`
 
