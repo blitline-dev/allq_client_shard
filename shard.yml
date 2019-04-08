@@ -2,8 +2,9 @@ name: allq_client
 version: 0.1.0
 
 authors:
-  - Jason <jaciones@gmail.com>
-
+  - Jason Malcolm<jaciones@gmail.com>
+description: |
+  A client for interacting with an allqueue server. Available via https:///www.allqueue.com
 crystal: 0.27.0
 
 license: MIT
